@@ -394,9 +394,13 @@ This portfolio is continuously updated as I learn new technologies and build new
 
 ## 📜 License
 
-This is a personal portfolio website created for educational and professional purposes.
+This project is not licensed under an open-source license.
 
+The source code, design, content, and original assets of this project are protected by applicable copyright laws. You may view the code for educational and reference purposes, but reuse, modification, redistribution, or commercial use is not permitted without prior permission from the author.
 The source code is available for reference and learning. Personal content, images, resume, and project information belong to the author.
+
+© 2026 Sanjeev Kumar Shah. All rights reserved.
+
 
 ---
 
