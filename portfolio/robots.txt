@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanjeevkumarshah.github.io/Portfolio/sitemap.xml
