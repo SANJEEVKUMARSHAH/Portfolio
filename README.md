@@ -396,8 +396,7 @@ This portfolio is continuously updated as I learn new technologies and build new
 
 This project is not licensed under an open-source license.
 
-The source code, design, content, and original assets of this project are protected by applicable copyright laws. You may view the code for educational and reference purposes, but reuse, modification, redistribution, or commercial use is not permitted without prior permission from the author.
-The source code is available for reference and learning. Personal content, images, resume, and project information belong to the author.
+The source code, design, content, and original assets are protected by applicable copyright laws. Viewing the repository for educational and reference purposes is permitted, but reuse, modification, redistribution, or commercial use requires prior permission from the author.
 
 © 2026 Sanjeev Kumar Shah. All rights reserved.
 
